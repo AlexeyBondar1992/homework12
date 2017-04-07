@@ -1,0 +1,16 @@
+label {
+    display: none;
+}
+body{
+    display: flex;
+}
+div {
+    display: flex;
+    flex-direction: column;
+}
+#sumOut {
+    align-items: center;
+    justify-content: center;
+    font-size: 18pt;
+    margin-left: 10px;
+}
